@@ -1,7 +1,3 @@
-my discord 
-https://discord.gg/X226EBqcc
-
-
 
 <blockquote>
   <h3>⚠️ Distribution Warning</h3>
