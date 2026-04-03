@@ -1,3 +1,14 @@
+<blockquote>
+  <h3>⚠️ Distribution Warning</h3>
+  <p>
+    <strong>This project is NOT open source yet.</strong><br>
+    The code is currently public for <em>viewing and auditing purposes only</em>. 
+    All rights are reserved by the author. No license is granted for modification or redistribution at this time.
+  </p>
+</blockquote>
+
+
+
 # 📟 HandyOS v11.2.0 — *The Refined Edition*
 
 > A fully-featured handheld operating system for the ESP32, running on a 1.44" ST7735 128×128 TFT display with a 5-way joystick. Built from scratch by **musaiyaf**.
